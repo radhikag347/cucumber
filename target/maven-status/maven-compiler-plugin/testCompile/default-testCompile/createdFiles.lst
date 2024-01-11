@@ -1,0 +1,4 @@
+Pageobjects\Registration.class
+StepDefinitions\Base.class
+StepDefinitions\Steps.class
+TestRunner\TestRunner.class

@@ -1,0 +1,22 @@
+2024-01-10 23:32:04,760 [main] INFO selenium-cucmber - ******Launching browser*****
+2024-01-10 23:32:10,095 [main] INFO selenium-cucmber - ******Opening URL*****
+2024-01-10 23:32:24,333 [main] INFO selenium-cucmber - ******providing user details*****
+2024-01-10 23:32:24,832 [main] INFO selenium-cucmber - ******clicked on register button*****
+2024-01-10 23:33:45,255 [main] INFO selenium-cucmber - ******Launching browser*****
+2024-01-10 23:33:50,464 [main] INFO selenium-cucmber - ******Opening URL*****
+2024-01-10 23:33:53,805 [main] INFO selenium-cucmber - ******providing user details*****
+2024-01-10 23:33:54,380 [main] INFO selenium-cucmber - ******clicked on register button*****
+2024-01-10 23:34:06,215 [main] INFO selenium-cucmber - ******expected msg seen*****
+2024-01-10 23:34:06,466 [main] INFO selenium-cucmber - ******browser closed*****
+2024-01-10 23:34:07,576 [main] INFO selenium-cucmber - ******Launching browser*****
+2024-01-10 23:34:12,729 [main] INFO selenium-cucmber - ******Opening URL*****
+2024-01-10 23:34:16,043 [main] INFO selenium-cucmber - ******providing user details*****
+2024-01-10 23:34:16,487 [main] INFO selenium-cucmber - ******clicked on register button*****
+2024-01-10 23:34:28,142 [main] INFO selenium-cucmber - ******expected msg seen*****
+2024-01-10 23:34:28,424 [main] INFO selenium-cucmber - ******browser closed*****
+2024-01-10 23:34:29,908 [main] INFO selenium-cucmber - ******Launching browser*****
+2024-01-10 23:34:35,112 [main] INFO selenium-cucmber - ******Opening URL*****
+2024-01-10 23:34:38,254 [main] INFO selenium-cucmber - ******providing user details*****
+2024-01-10 23:34:38,705 [main] INFO selenium-cucmber - ******clicked on register button*****
+2024-01-10 23:34:50,119 [main] INFO selenium-cucmber - ******expected msg seen*****
+2024-01-10 23:34:50,403 [main] INFO selenium-cucmber - ******browser closed*****
